@@ -1,4 +1,5 @@
-# 🐆 PumaNeoLang (PNL)
+#  PumaNeoLang (PNL)
+![Logo](PNL-max.png)
 
 **PumaNeoLang (PNL)** es un lenguaje de programación diseñado para combinar facilidad de aprendizaje con potencia en la manipulación y análisis de datos. Inspirado en la simplicidad de Python y la expresividad de lenguajes funcionales, PNL busca proporcionar una sintaxis limpia, clara y altamente intuitiva, enfocada en automatización de tareas, procesamiento de datos y análisis estadístico. Su diseño lo hace ideal para desarrolladores principiantes y expertos que buscan realizar manipulaciones de datos sin una curva de aprendizaje pronunciada.. El sistema incluye un **léxico personalizado**, **parser**, **intérprete**, **generador de código Python**, y una **IDE gráfica** amigable y potente.
 
@@ -18,7 +19,7 @@
 
 ---
 
-## 🖥️ Estructura del Proyecto
+## Estructura del Proyecto
 
 Archivo	Descripción
 - lexer.py	Analiza el código fuente y genera tokens.
