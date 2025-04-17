@@ -1,0 +1,8 @@
+Puma.Roar():
+funcion saludar():
+    imprimir("Hola")
+
+saludar()
+
+
+Puma.Ya();

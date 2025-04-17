@@ -1,0 +1,8 @@
+Puma.Roar():
+    activo = verdadero
+    pi = 3.14
+    nombre = "Lizzy"
+    imprimir(pi)
+    imprimir(activo)
+Puma.Ya();
+

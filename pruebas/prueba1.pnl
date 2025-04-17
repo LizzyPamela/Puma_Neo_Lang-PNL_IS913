@@ -1,0 +1,7 @@
+Puma.Roar():
+    x = 10
+    si x > 5:
+        imprimir("Mayor a cinco")
+Puma.Ya();
+
+
