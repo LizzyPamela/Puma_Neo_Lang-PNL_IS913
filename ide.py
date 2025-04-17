@@ -1,4 +1,4 @@
-# PumaNeoLang (PNL) - IDE Estilizado con resaltado de errores y funciones para abrir/guardar archivos
+# PumaNeoLang (PNL) - IDE
 
 import tkinter as tk
 from tkinter import scrolledtext, messagebox, Toplevel, Label, PhotoImage, filedialog

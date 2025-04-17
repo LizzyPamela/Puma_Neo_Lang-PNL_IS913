@@ -96,7 +96,7 @@ class Parser:
             if stmt:
                 statements.append(stmt)
             else:
-                self.pos += 1  # ← evita bucle si hay tokens inválidos
+                self.pos += 1  # evita bucle si hay tokens inválidos
         return statements
 
     def expression(self):

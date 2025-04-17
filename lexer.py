@@ -1,4 +1,4 @@
-# lexer.py actualizado para Puma.Roar() y Puma.Ya()
+# lexer.py
 
 import re
 

@@ -1,4 +1,5 @@
 # Generador de código Python desde el AST de PumaNeoLang
+
 class CodeGenerator:
     def __init__(self, ast):
         self.ast = ast
