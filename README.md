@@ -51,7 +51,7 @@ Archivo	Descripción
 
 ---
 ## Sintaxis del lenguaje
-pnl
+
 Puma.Roar():
     x = 10
     si x > 5:
