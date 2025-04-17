@@ -50,6 +50,7 @@ Archivo	Descripción
 - Librerías: tkinter, pandas (solo si usas tabla("archivo.csv"))
 
 ---
+
 ## Sintaxis del lenguaje
 
 Puma.Roar():
@@ -63,8 +64,7 @@ Puma.Roar():
     saludar()
 Puma.Ya();
 
-
-
+--- 
 ## Autora
 Lizzy Pamela Mejía Mejía
 lpmejiam@unah.hn
